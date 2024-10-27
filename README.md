@@ -1,6 +1,8 @@
 Hi, I'm Penelope Chun 👋
 ---
+
 🧫🦾🤑
+#
 
 ## Languages
  
