@@ -1,6 +1,8 @@
-Hi there 👋
- 
-### Languages
+#Hi, I'm Penelope Chun 👋
+---
+###🧫🦾🤑
+
+## Languages
  
 <img align="left" alt="C++" width="25px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
  
