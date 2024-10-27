@@ -1,6 +1,6 @@
-#Hi, I'm Penelope Chun 👋
+Hi, I'm Penelope Chun 👋
 ---
-###🧫🦾🤑
+🧫🦾🤑
 
 ## Languages
  
